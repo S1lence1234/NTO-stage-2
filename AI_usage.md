@@ -1,0 +1,1 @@
+BERT embeddings: получение плотных векторных представлений текста через предобученную модель `DeepPavlov/rubert-base-cased`
